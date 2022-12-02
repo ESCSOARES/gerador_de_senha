@@ -14,5 +14,3 @@ for i in range(tamanho_senha):
     senha += choice(combinacoes)
 
 print('a senha gerada é:', senha)
-
-input('')
